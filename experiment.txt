@@ -1,0 +1,18 @@
+Hi There,
+
+Glad you remembered me.
+
+This is the list of experiments for ADS
+Each practical is in a seperate folder with all the code and necessary files.
+inside each folder there is a file named instruction.txt containing all the required info
+
+Exp 1:Data Visualization.
+Exp 2:Data Exploration
+Exp 3:Data Cleaning
+Exp 4:performance evaluation metrics
+Exp 5:prediction using NN
+Exp 6:SMOTE technique
+Exp 7:Implement Outlier detection
+Exp 8:Time series dataset and do prediction using RNN model
+
+Best of Luck !!!
